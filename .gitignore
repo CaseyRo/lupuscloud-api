@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Local scratch / recon artifacts (never commit — may contain real account data)
+scratchpad/
+raw_*.json
+*.local
