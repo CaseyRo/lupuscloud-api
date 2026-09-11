@@ -214,7 +214,7 @@ platform's real business — property submetering and billing — lives.
 
 ## 10. Why no Home Assistant integration was built
 
-An HA integration was scoped (see `openspec/changes/add-lupuscloud-integration/`, kept as a
+An HA integration was scoped (see `openspec/changes/archive/2026-08-31-add-lupuscloud-integration/`, kept as a
 decision record) and deliberately shelved:
 
 1. **The webhook already solves the real need.** For "get a smoke alarm into Home Assistant,"

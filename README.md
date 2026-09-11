@@ -16,7 +16,7 @@ locked behind installer/company accounts. See
 - **[`docs/lupuscloud-api.md`](docs/lupuscloud-api.md)** — the API reference: Cognito auth, the
   ID-token quirk, endpoint map, device/location/notification schemas, event types, the outbound
   webhook (`service/webhook`), and the permission-gated installer surface.
-- **`openspec/changes/add-lupuscloud-integration/`** — the (parked) evaluation of an HA
+- **`openspec/changes/archive/2026-08-31-add-lupuscloud-integration/`** — the (parked) evaluation of an HA
   integration, kept as a decision record.
 
 ## Want LUPUS Cloud events in Home Assistant?
